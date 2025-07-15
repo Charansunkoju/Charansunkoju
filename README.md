@@ -51,4 +51,4 @@ _March 2024 – June 2024_
 
 ---
 
-_“Data is a tool for empowerment. I build the bridge between numbers and narratives.”_
+_Data is a tool for empowerment. I build the bridge between numbers and narratives._
